@@ -18,6 +18,13 @@ A birthday card with static names and a background image. This project presents 
 
 ## Article
 
-A page comprises multiple texts, one title, and one image as a banner. This project presents a more complete version of the birthday card, managing multiple modifiers for each component.
+This page comprises multiple texts, one title, and one image as a banner. This project presents a more complete version of the birthday card, managing multiple modifiers for each component.
 
 <img src="https://github.com/user-attachments/assets/d264fb26-7a40-4c0a-ad62-d74f217ca0ca" width=25% height=25%>
+
+## Task Manager
+
+This page comprises a similar organization, this time in the center of the application. 
+
+<img src="https://github.com/user-attachments/assets/22d6c6fe-8045-49ca-9d86-7536d3ea8a6d" width=25% height=25%>
+
